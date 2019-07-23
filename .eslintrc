@@ -1,0 +1,9 @@
+{
+    "plugins": ["react", "jsx-a11y"],
+    "rules": {
+        "react/jsx-uses-react": "error",
+        "jsx-a11y/no-static-element-interactions": "warn",
+        "jsx-a11y/alt-text": "error"
+    },
+    "parserOptions": { "ecmaVersion": 6, "sourceType": "module", "ecmaFeatures": { "jsx": true, "experimentalObjectRestSpread": true, "modules": true } }
+}

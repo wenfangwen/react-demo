@@ -1,0 +1,51 @@
+.antd-pro-pages-dashboard-workplace-projectItemContent {
+    display: flex;
+    height: 20px;
+    margin-top: 8px;
+    font-size: 12px;
+    line-height: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    word-break: break-all;
+}
+.ant-card-meta-description {
+    height: 44px;
+    overflow: hidden;
+    color: rgba(0, 0, 0, 0.45);
+    line-height: 22px;
+}
+.antd-pro-pages-dashboard-workplace-projectItemContent a {
+    display: inline-block;
+    flex: 1 1;
+    color: rgba(0, 0, 0, 0.45);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    word-break: break-all;
+}
+.antd-pro-pages-dashboard-workplace-cardTitle {
+    font-size: 0;
+}
+
+.antd-pro-pages-dashboard-workplace-cardTitle a {
+    display: inline-block;
+    height: 24px;
+    margin-left: 12px;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    line-height: 24px;
+    vertical-align: top;
+}
+
+.antd-pro-components-editable-link-group-index-linkGroup {
+    padding: 20px 0 8px 24px;
+    font-size: 0;
+}
+.antd-pro-components-editable-link-group-index-linkGroup > a {
+    display: inline-block;
+    width: 25%;
+    margin-bottom: 13px;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+}
